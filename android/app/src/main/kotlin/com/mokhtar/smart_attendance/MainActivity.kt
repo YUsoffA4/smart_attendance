@@ -1,0 +1,6 @@
+package com.mokhtar.smart_attendance
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}

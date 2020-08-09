@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>347799269142-vqubbpp0r90du4q1r8ctt409n8l5gi94.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.347799269142-vqubbpp0r90du4q1r8ctt409n8l5gi94</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>347799269142-9teuc1seslv05mjj9ofgi19qh9afommj.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDVUj7x3mmEPga3wcj0JqHPzgQxd3LyqsQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>347799269142</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mokhtar.smartAttendance</string>
+	<key>PROJECT_ID</key>
+	<string>smart-attendance-589e9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smart-attendance-589e9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:347799269142:ios:54ae6a9c283b6b1ff62a37</string>
+	<key>DATABASE_URL</key>
+	<string>https://smart-attendance-589e9.firebaseio.com</string>
+</dict>
+</plist>
